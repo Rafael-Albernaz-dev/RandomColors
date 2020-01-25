@@ -8,8 +8,7 @@ const app = new Vue({
  
     },
 
-    
-    
+
     mounted() {
         let colors = document.querySelectorAll('.col');
         for(let index = 0; index < colors.length; index++) {
