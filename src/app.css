@@ -1,0 +1,39 @@
+body,html {
+    height: 100%;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+nav .brand-logo {
+    font-family: 'Staatliches', Arial;
+    font-size: 36px;
+    color: #ffb6b9;
+    
+}
+nav.white {
+    z-index: 1000;
+}
+main {
+    height: 100%;
+    z-index: 1;
+}
+.row {
+    height: 100%;
+}
+.col.s3 {
+    height: 100%;
+    background-color: #ffb6b9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+.hexColor {
+    font-family: 'Staatliches', Arial;
+    font-size: 35px;
+    color: #fff;
+    letter-spacing: 1.5px;
+}
