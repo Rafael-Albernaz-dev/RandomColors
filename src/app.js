@@ -28,7 +28,10 @@ const app = new Vue({
                 this.hexColor2 = '#'+(Math.random()*0xFFFFFF<<0).toString(16);
                 this.hexColor3= '#'+(Math.random()*0xFFFFFF<<0).toString(16);
                 this.hexColor4 = '#'+(Math.random()*0xFFFFFF<<0).toString(16);
-                colors[index].style.backgroundColor = this.hexColor;
+                colors[0].style.backgroundColor = this.hexColor;
+                colors[1].style.backgroundColor = this.hexColor2;
+                colors[2].style.backgroundColor = this.hexColor3;
+                colors[3].style.backgroundColor = this.hexColor4;
             }
         },
 
