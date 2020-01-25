@@ -1,0 +1,24 @@
+{
+  "name": "RandomColor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rafael-Albernaz-dev/RandomPastelColors.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rafael-Albernaz-dev/RandomPastelColors/issues"
+  },
+  "homepage": "https://github.com/Rafael-Albernaz-dev/RandomPastelColors#readme",
+  "dependencies": {
+    "hsl-to-hex": "^1.0.0",
+    "i": "^0.3.6"
+  }
+}
