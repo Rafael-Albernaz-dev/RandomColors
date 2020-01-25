@@ -4,6 +4,9 @@ body,html {
     overflow-x: hidden;
 }
 
+#app {
+    height: 100%;
+}
 nav .brand-logo {
     font-family: 'Staatliches', Arial;
     font-size: 36px;
@@ -22,7 +25,6 @@ main {
 }
 .col.s3 {
     height: 100%;
-    background-color: #ffb6b9;
     display: flex;
     justify-content: center;
     align-items: center;
