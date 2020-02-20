@@ -16,7 +16,7 @@ If you want run this project in local, you just need download or clone the **rep
 
 - Add the <a href="https://materializecss.com/icons.html">Materialize icons</a> style **CDN** in the HEAD of the HTML file
 
-- Add the <a href="https://vuejs.org/v2/guide/installation.html">VueJS</aa> script in the end of the body in HTML file
+- Add the <a href="https://vuejs.org/v2/guide/installation.html">VueJS</a> script in the end of the body in HTML file
 
 - **NOTE:** you just need do this if you want use components of the project
 
